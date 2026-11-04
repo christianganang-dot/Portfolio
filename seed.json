@@ -1,0 +1,58 @@
+{
+  "owner": null,
+  "profile": {
+    "name": "Christian Ganang",
+    "role": "3D Modeler & Digital Artist",
+    "about": "I'm a student from Indonesia with a strong interest in 3D modeling and digital art. I enjoy turning simple ideas into 3D objects and exploring different ways to make my work look more detailed and visually appealing.\n\nI've been learning 3D modeling since mid-2025, mainly using Blender. My projects range from simple objects and furniture to detailed assets. I'm continuously learning, improving my skills, and looking for new opportunities to create better work."
+  },
+  "projects": [
+    {
+      "id": "0b64cfd2-2293-47e4-9632-5594e708d100",
+      "title": "Donut Project",
+      "category": "3D Modeling",
+      "summary": "A donut, a plate, and a mug. A simple still life explored through shape, materials, and light.",
+      "description": "A Blender study of a donut, plate, and mug.\n\nThe original presentation pairs a full-color render with a solid render, showing how the forms come together before and after materials and lighting.",
+      "tags": "Blender, 3D Modeling, Materials, Rendering",
+      "year": "",
+      "url": "",
+      "image": "/assets/donut.png",
+      "featured": true
+    },
+    {
+      "id": "0b64cfd2-2293-47e4-9632-5594e708d101",
+      "title": "Cabinet Project",
+      "category": "Hard Surface",
+      "summary": "A furniture modeling study, from wireframe structure to a cabinet in a lit interior scene.",
+      "description": "A hard-surface cabinet study made in Blender.\n\nThe original presentation includes a wireframe view and a full render. Open doors reveal the shelving inside, while the final scene places the cabinet against an interior wall.",
+      "tags": "Blender, Hard Surface, Furniture, Rendering",
+      "year": "",
+      "url": "",
+      "image": "/assets/cabinet.png",
+      "featured": true
+    },
+    {
+      "id": "0b64cfd2-2293-47e4-9632-5594e708d102",
+      "title": "Flower Project",
+      "category": "3D Modeling",
+      "summary": "A bright pink flower in a small pot, balancing playful color with simple forms.",
+      "description": "A stylized potted flower modeled in Blender.\n\nThe presentation contrasts a full-color render with a wireframe view, revealing the mesh behind the petals, leaves, and pot.",
+      "tags": "Blender, 3D Modeling, Props, Rendering",
+      "year": "",
+      "url": "",
+      "image": "/assets/flower.png",
+      "featured": false
+    },
+    {
+      "id": "0b64cfd2-2293-47e4-9632-5594e708d103",
+      "title": "Bed Project",
+      "category": "Environment",
+      "summary": "A wooden bed with pillows and a textured blanket, explored as an environment asset.",
+      "description": "A bed and bedding study created in Blender.\n\nA solid render shows the underlying forms, while the full render adds the wooden frame and textured blanket to the scene.",
+      "tags": "Blender, Environment, Furniture, Materials",
+      "year": "",
+      "url": "",
+      "image": "/assets/bed.png",
+      "featured": false
+    }
+  ]
+}
